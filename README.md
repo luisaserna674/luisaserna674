@@ -1,6 +1,6 @@
 #Hello! [I'm Luisa](https://github.com/luisaserna674)
 
-- 👀 I’m interested in machine learning, robotic, programming
+- 👀 I’m interested in machine learning, robotic and programming
 
 [![Code gift](https://media.giphy.com/media/UtnxCnjWAOL1J6TNUR/giphy.gif "Code gift")](https://media.giphy.com/media/UtnxCnjWAOL1J6TNUR/giphy.gif "Code gift")
 
